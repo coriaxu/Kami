@@ -46,3 +46,11 @@ python3 scripts/build.py --check  # CSS 扫描 (rgba / 冷灰 / 行高)
 TsangerJinKai02-W04.ttf 是商业字体，商业用途需从 tsanger.cn 获取授权。
 无字体时 fallback: Source Han Serif SC -> Noto Serif CJK SC -> Songti SC -> Georgia。
 英文模板用 Newsreader serif。
+
+## 提交与推送（徐老师 2026-10-26 设定）
+
+每次完成修改后，直接提交并合并到 `main`，推送到 GitHub，不用再问徐老师。
+
+- 会话如果在别的分支上工作，改完把它合并进 `main`，再推送 `main`；不开 PR。
+- 推送前先拉取远端 `main`；有冲突就停下来告诉徐老师，不要强推。
+- 推完告诉徐老师 `main` 的提交号。
